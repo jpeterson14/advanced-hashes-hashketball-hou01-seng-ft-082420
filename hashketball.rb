@@ -195,7 +195,7 @@ end
     biggest shoe = 0 
     rebounds = 0 
     game_hash.each do |location, team_data|
-      
+      team_data[:players]
   end 
   
 
