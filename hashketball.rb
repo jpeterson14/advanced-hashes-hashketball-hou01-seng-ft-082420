@@ -198,7 +198,7 @@ end
       team_data[:players].each do |player|
         if player[:shoe] > biggest_shoe
           biggest_shoe = player[:shoe]
-          rebounds = 
+          rebounds = player[:rebounds]
   end 
   
 
